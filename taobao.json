@@ -1,0 +1,148 @@
+
+{
+  "tmall_temai_subcats_search_response" : {
+    "cat_list" : {
+      "tmall_tm_cat" : [
+        {
+          "sub_cat_name" : "服饰",
+          "sub_cat_id" : 50101034
+        },
+        {
+          "sub_cat_name" : "鞋包",
+          "sub_cat_id" : 50101011
+        },
+        {
+          "sub_cat_name" : "时尚",
+          "sub_cat_id" : 50100986
+        },
+        {
+          "sub_cat_name" : "运动",
+          "sub_cat_id" : 50101089
+        },
+        {
+          "sub_cat_name" : "居家",
+          "sub_cat_id" : 50101115
+        },
+        {
+          "sub_cat_name" : "其他",
+          "sub_cat_id" : 50101133
+        }
+      ]
+    }
+  }
+}
+
+
+
+
+
+{
+  "tmall_temai_subcats_search_response" : {
+    "cat_list" : {
+      "tmall_tm_cat" : [
+        {
+          "sub_cat_name" : "母婴",
+          "sub_cat_id" : 50101134
+        },
+        {
+          "sub_cat_name" : "汽车用品",
+          "sub_cat_id" : 50101144
+        }
+      ]
+    }
+  }
+}
+
+
+
+
+
+
+{
+  "tmall_temai_subcats_search_response" : {
+    "cat_list" : {
+      "tmall_tm_cat" : [
+        {
+          "sub_cat_name" : "婴儿装",
+          "sub_cat_id" : 50102072
+        },
+        {
+          "sub_cat_name" : "小中大童",
+          "sub_cat_id" : 50101136
+        },
+        {
+          "sub_cat_name" : "孕妇装\/防辐射",
+          "sub_cat_id" : 50101138
+        },
+        {
+          "sub_cat_name" : "童裤",
+          "sub_cat_id" : 50102073
+        },
+        {
+          "sub_cat_name" : "童鞋",
+          "sub_cat_id" : 50101218
+        },
+        {
+          "sub_cat_name" : "儿童玩具\/学习",
+          "sub_cat_id" : 50101137
+        },
+        {
+          "sub_cat_name" : "洗护\/喂哺",
+          "sub_cat_id" : 50101135
+        },
+        {
+          "sub_cat_name" : "孕产妇用品",
+          "sub_cat_id" : 50101220
+        },
+        {
+          "sub_cat_name" : "尿片\/纸尿裤",
+          "sub_cat_id" : 50101217
+        },
+        {
+          "sub_cat_name" : "毛衣\/针织衫",
+          "sub_cat_id" : 50102091
+        },
+        {
+          "sub_cat_name" : "儿童羽绒服",
+          "sub_cat_id" : 50464037
+        },
+        {
+          "sub_cat_name" : "T恤\/衬衫",
+          "sub_cat_id" : 50470041
+        },
+        {
+          "sub_cat_name" : "连身衣\/爬服\/哈衣",
+          "sub_cat_id" : 50462028
+        },
+        {
+          "sub_cat_name" : "卫衣\/绒衫",
+          "sub_cat_id" : 50466021
+        },
+        {
+          "sub_cat_name" : "棉袄\/棉服",
+          "sub_cat_id" : 50484039
+        },
+        {
+          "sub_cat_name" : "外套\/夹克\/大衣",
+          "sub_cat_id" : 50470042
+        },
+        {
+          "sub_cat_name" : "马甲\/背心",
+          "sub_cat_id" : 50460027
+        },
+        {
+          "sub_cat_name" : "套装\/亲子装",
+          "sub_cat_id" : 50464038
+        },
+        {
+          "sub_cat_name" : "女童裙装",
+          "sub_cat_id" : 50472038
+        },
+        {
+          "sub_cat_name" : "婴童内衣裤\/睡衣",
+          "sub_cat_id" : 50458025
+        }
+      ]
+    }
+  }
+}
